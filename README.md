@@ -76,14 +76,13 @@ To install and run the Python Quiz App, follow these steps:
 - Limited to the predefined set of questions.
 - No option to resume or save progress mid-quiz.
 
-## License
 
-This project is released under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
 
 ## Screenshots
+![Screenshot 2024-11-25 205506](https://github.com/user-attachments/assets/43cb8b07-ca65-46e1-a9ac-6a39bd6aaac6)
+![Screenshot 2024-11-25 205521](https://github.com/user-attachments/assets/fb934422-187e-469a-848e-434ddd36576f)
+![Screenshot 2024-11-25 205535](https://github.com/user-attachments/assets/ca1b53f2-49c8-4e76-b035-7ca8f60dcf46)
+![Screenshot 2024-11-25 205547](https://github.com/user-attachments/assets/537d3050-8b9e-4928-9ed6-b40aef1a7806)
+![Screenshot 2024-11-25 205606](https://github.com/user-attachments/assets/b2bcae70-47ab-4725-a5cc-2c6045159afa)
 
-Add screenshots here to illustrate the app's interface. (Optional)
 
----
-
-Enjoy testing your Python knowledge with this interactive quiz app!
