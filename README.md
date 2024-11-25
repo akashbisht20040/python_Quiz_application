@@ -1,28 +1,35 @@
 # Python Quiz App
 
-A simple Python-based quiz application built using the Tkinter GUI library. The app allows users to test their Python knowledge with multiple-choice questions and provides real-time feedback and a countdown timer for each question.
-
----
+This Python Quiz App is a graphical quiz application built using the `tkinter` library. It presents users with multiple-choice questions about Python programming. Each question is timed, and the app provides feedback on whether the selected answer is correct or incorrect. Users can see their final score at the end of the quiz.
 
 ## Features
 
-- **Multiple-choice questions**: Each question comes with four answer options.
-- **Countdown timer**: Users must answer each question within 30 seconds.
-- **Shuffled questions**: Questions are randomized for variety.
-- **Score tracking**: Tracks and displays the user's final score at the end of the quiz.
-- **User feedback**: Notifies users whether their selected answer is correct or incorrect.
+- Multiple-choice quiz with embedded Python-related questions.
+- Timer for each question (default: 30 seconds).
+- Shuffle questions for variety in each quiz session.
+- Feedback on answers with correct answers displayed if incorrect.
+- Displays the final score at the end of the quiz.
+- User-friendly graphical interface.
 
----
+## Requirements
 
-## Prerequisites
-
-Ensure that Python 3.x is installed on your system. If not, download and install it from the [official Python website](https://www.python.org/).
-
----
+- Python 3.x
+- `tkinter` (comes pre-installed with Python on most systems)
 
 ## Installation
 
-1. **Clone or download the project:**
-   ```bash
-   git clone https://github.com/yourusername/python-quiz-app.git
-   cd python-quiz-app
+To set up and run the Python Quiz App, follow these steps:
+
+### 1. Install Python
+
+If you don't already have Python 3.x installed, you can download and install it from [python.org](https://www.python.org/downloads/). Make sure to select the option to **Add Python to PATH** during the installation process.
+
+### 2. Install Tkinter (if not already installed)
+
+`tkinter` is included with most Python installations. However, if it is not installed on your system, you can install it using the following steps:
+
+- **For Windows**: Tkinter should be pre-installed with Python.
+- **For macOS**: Tkinter is included with Python 3 installations by default.
+- **For Linux**: If Tkinter is not already installed, you can install it using your package manager:
+  ```bash
+  sudo apt-get install python3-tk
